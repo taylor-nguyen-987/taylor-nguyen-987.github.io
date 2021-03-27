@@ -1,4 +1,5 @@
 body {
+    background-image: url("New background.jpg");
     background-repeat: no repeat;
     background-size: 100%;
     background-attachment: fixed;
@@ -16,7 +17,7 @@ body {
 }
 
 #nav li {
-    float: left;
+    float: right;
 }
 
 #nav li a{

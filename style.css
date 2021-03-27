@@ -3,7 +3,7 @@ body {
     background-repeat: no repeat;
     background-size: 100%;
     background-attachment: fixed;
-    background-color: LightSeaGreen;
+    background-color: White;
     font-family: 'Habibi', serif;
     
 }
@@ -17,7 +17,7 @@ body {
 }
 
 #nav li {
-    float: left;
+    float: right;
 }
 
 #nav li a{
