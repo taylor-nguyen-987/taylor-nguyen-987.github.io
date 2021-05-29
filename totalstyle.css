@@ -1,9 +1,7 @@
 body {
-    background-image: url("Assets/bird.jpg");
-    background-repeat: no repeat;
     background-size: 100%;
     background-attachment: fixed;
-    background-color: White;
+    background-color: #C0C0C0;
     font-family: 'Habibi', serif;
     
 }
@@ -55,13 +53,3 @@ h1{
     text-align: middle;
 }
 
-/*
-div {
-    #content {
-   max-width: 1000px;
-   margin: auto;
-   left: 1%;
-   right: 1%;
-   position: absolute;
-}
-*/
